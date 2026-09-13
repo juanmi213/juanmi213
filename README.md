@@ -1,13 +1,13 @@
 # 👋 ¡Bienvenido a mi GitHub!
 
-::: {align="center"}
+
 # 💻 Juan Miguel Hernandez
 
 ### 🎓 Estudiante de Análisis y Desarrollo de Software (ADSO)
 
 🚀 Desarrollador en formación \| 🌐 Desarrollo Web \| 🐍 Python \| 🐘
 PHP \| 🗄️ Bases de Datos
-:::
+
 
 ------------------------------------------------------------------------
 
@@ -179,7 +179,7 @@ Durante mi formación trabajo en diferentes áreas como:
 
 ## 📫 Contacto
 
-::: {align="center"}
+
 📧 **Correo:** juanmiguelhernandezmartine@gmail.com
 
 🐙 **GitHub:** [@juanmi213](https://github.com/juanmi213)
