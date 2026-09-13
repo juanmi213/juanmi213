@@ -129,13 +129,13 @@ Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vis
 
 ## 📊 Mi actividad en GitHub
 
-::: {align="center"}
+
 ![GitHub
 Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top
 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
-:::
+
 
 ------------------------------------------------------------------------
 
