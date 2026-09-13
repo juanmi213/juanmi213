@@ -174,13 +174,12 @@ Durante mi formación trabajo en diferentes áreas como:
 
 🐙 **GitHub:** [@juanmi213](https://github.com/juanmi213)
 
-:::
+
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
 ### ⭐ Gracias por visitar mi perfil
 
 **¡Siempre aprendiendo, creando y mejorando! 🚀**
 
-:::
