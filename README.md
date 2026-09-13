@@ -141,10 +141,10 @@ Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USU
 
 ## 🐍 Mi actividad
 
-::: {align="center"}
+
 ![GitHub
 Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true)
-:::
+
 
 ------------------------------------------------------------------------
 
